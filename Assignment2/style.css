@@ -20,9 +20,9 @@ p {
 
 #container {
   margin-top: 3.5%;
-  position: relative;
   border: 0px;
   overflow: auto;
+
 }
 
 #class {
@@ -46,18 +46,16 @@ p {
 #p1, #p2, #p3 {
   margin: auto;
   border: solid black 1px;
-  float: right;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 1%;
+  padding-bottom: 1%;
   width: 150px;
-  position: relative;
   text-align: center;
   font-weight: bold;
 }
-#text1, #text2, #text3{
+
+#text{
 	border:	solid black 2px;
 	margin: 2.5%;
-	position: relative;
 	background-color: gray;
 	overflow: auto;
 }
